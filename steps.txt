@@ -1,0 +1,19 @@
+1) Create a empty solution BookStoreApp
+2) Create a project web api  BookStoreApp.API
+3) Package Serilog , Serilog .Expressions
+4) Change app settings ( for each logging mechanism like file , db ..etc ) and programm.cs to use serilog
+
+5) Serilog.sink.seq to log ino seq using http / https 
+
+6) Add cors policy , AllowAll and use 
+
+
+
+C:\Windows\SysWOW64\msiexec    C:\Users\KrishnR6\Downloads\Seq-2022.1.7449.msi
+
+
+ren msi.dll msi.old
+ren msiexec.exe msiexec.old
+ren msihnd.dll msihnd.old
+
+
